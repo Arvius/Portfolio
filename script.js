@@ -1,5 +1,5 @@
 var typed = new Typed(".auto-type", {
-    strings: ["Yearner Developer", "Programmer", "Web Developer", "Backend Developer"],
+    strings: ["Programmer", "Web Developer", "Backend Developer"],
     typeSpeed: 60,        // Bilis ng pag-type
     backSpeed: 70,        // Bilis ng pag-delete (mas mabagal para smooth)
     backDelay: 1000,      // Delay bago mag-delete (1.5 seconds)
